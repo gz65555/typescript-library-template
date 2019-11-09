@@ -48,5 +48,8 @@
   "ci": {
     "type": "gitlab",
     "version": "alinode=3.11.7"
+  },
+  "dependencies": {
+    "eslint": "^6.6.0"
   }
 }
